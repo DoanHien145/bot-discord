@@ -1,0 +1,1002 @@
+[
+  {
+    "q": "Thủ đô của Việt Nam là gì?",
+    "options": [
+      "Hà Nội",
+      "Huế",
+      "Đà Nẵng",
+      "TP.HCM"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Hành tinh nào gần Mặt Trời nhất?",
+    "options": [
+      "Sao Kim",
+      "Sao Thủy",
+      "Trái Đất",
+      "Sao Hỏa"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Một năm thường có bao nhiêu ngày?",
+    "options": [
+      "364",
+      "365",
+      "366",
+      "360"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Nguyên tố hóa học có ký hiệu O là gì?",
+    "options": [
+      "Vàng",
+      "Bạc",
+      "Oxy",
+      "Sắt"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Sông nào dài nhất Việt Nam?",
+    "options": [
+      "Sông Hồng",
+      "Sông Đồng Nai",
+      "Sông Cửu Long (Mê Kông)",
+      "Sông Mã"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Ai là tác giả của Truyện Kiều?",
+    "options": [
+      "Nguyễn Du",
+      "Hồ Xuân Hương",
+      "Nguyễn Trãi",
+      "Tố Hữu"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kết quả của 12 x 12 là bao nhiêu?",
+    "options": [
+      "124",
+      "132",
+      "144",
+      "148"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Đại dương lớn nhất thế giới là gì?",
+    "options": [
+      "Đại Tây Dương",
+      "Ấn Độ Dương",
+      "Bắc Băng Dương",
+      "Thái Bình Dương"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Loài vật nào được gọi là chúa sơn lâm?",
+    "options": [
+      "Hổ",
+      "Voi",
+      "Sư tử",
+      "Gấu"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ngôn ngữ lập trình Python do ai tạo ra?",
+    "options": [
+      "Linus Torvalds",
+      "Guido van Rossum",
+      "James Gosling",
+      "Dennis Ritchie"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Đỉnh núi nào cao nhất Việt Nam?",
+    "options": [
+      "Phan Xi Păng",
+      "Pú Luông",
+      "Tây Côn Lĩnh",
+      "Bạch Mộc Lương Tử"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kim loại nào ở thể lỏng ở nhiệt độ phòng?",
+    "options": [
+      "Sắt",
+      "Thủy ngân",
+      "Đồng",
+      "Nhôm"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Nước nào có diện tích lớn nhất thế giới?",
+    "options": [
+      "Mỹ",
+      "Trung Quốc",
+      "Nga",
+      "Canada"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Tác phẩm văn học 'Chí Phèo' do ai sáng tác?",
+    "options": [
+      "Nam Cao",
+      "Ngô Tất Tố",
+      "Vũ Trọng Phụng",
+      "Xuân Diệu"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Thành phố nào được mệnh danh là 'Thành phố Hoa phượng đỏ'?",
+    "options": [
+      "Đà Nẵng",
+      "Hải Phòng",
+      "Cần Thơ",
+      "Nha Trang"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bộ phận nào trên cơ thể người không thể tự chữa lành?",
+    "options": [
+      "Da",
+      "Xương",
+      "Răng",
+      "Móng tay"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Quốc gia nào là quê hương của món Pizza?",
+    "options": [
+      "Pháp",
+      "Ý",
+      "Tây Ban Nha",
+      "Hy Lạp"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Tập hợp các số tự nhiên được ký hiệu bằng chữ cái nào?",
+    "options": [
+      "Z",
+      "Q",
+      "R",
+      "N"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Eo biển nào nối liền biển Đông và Ấn Độ Dương?",
+    "options": [
+      "Eo biển Malacca",
+      "Eo biển Gibraltar",
+      "Eo biển Bering",
+      "Eo biển Magellan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kính thiên văn không gian đầu tiên của nhân loại tên là gì?",
+    "options": [
+      "Hubble",
+      "James Webb",
+      "Kepler",
+      "Spitzer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ai là người đầu tiên đặt chân lên Mặt Trăng?",
+    "options": [
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Michael Collins"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Trong cờ vua, quân cờ nào có thể đi theo đường chéo?",
+    "options": [
+      "Xe",
+      "Mã",
+      "Tượng",
+      "Tốt"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bức tranh nổi tiếng 'Mona Lisa' là tác phẩm của ai?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Claude Monet"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Nước Việt Nam nằm ở múi giờ thứ mấy (UTC)?",
+    "options": [
+      "UTC+6",
+      "UTC+7",
+      "UTC+8",
+      "UTC+9"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Thành phần chính của khí quyển Trái Đất là gì?",
+    "options": [
+      "Oxy",
+      "Nitơ",
+      "Cacbon đioxit",
+      "Hydro"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cơ quan nào trong cơ thể người sản xuất ra mật?",
+    "options": [
+      "Dạ dày",
+      "Tụy",
+      "Gan",
+      "Mật"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Lễ hội Đền Hùng được tổ chức vào ngày âm lịch nào?",
+    "options": [
+      "Mùng 5 tháng 5",
+      "Mùng 10 tháng 3",
+      "Rằm tháng Tám",
+      "Mùng 1 tháng Giêng"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Quốc gia nào có số dân đông nhất thế giới tính đến nay?",
+    "options": [
+      "Trung Quốc",
+      "Ấn Độ",
+      "Mỹ",
+      "Indonesia"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Loại vitamin nào cơ thể có thể tự tổng hợp nhờ ánh nắng Mặt Trời?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Mạng Internet toàn cầu chính thức ra đời vào thập niên nào?",
+    "options": [
+      "1960s",
+      "1970s",
+      "1980s",
+      "1990s"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Hồ nước ngọt lớn nhất Việt Nam là hồ nào?",
+    "options": [
+      "Hồ Tây",
+      "Hồ Ba Bể",
+      "Hồ Hoàn Kiếm",
+      "Hồ Thác Bà"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Kim cương được cấu tạo hoàn toàn từ nguyên tố nào?",
+    "options": [
+      "Cacbon",
+      "Sắt",
+      "Silic",
+      "Oxy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Quốc gia nào có nhiều múi giờ nhất thế giới?",
+    "options": [
+      "Nga",
+      "Mỹ",
+      "Pháp",
+      "Trung Quốc"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Âm thanh truyền nhanh nhất trong môi trường nào?",
+    "options": [
+      "Chân không",
+      "Chất khí",
+      "Chất lỏng",
+      "Chất rắn"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Ai là người phát minh ra bóng đèn sợi đốt?",
+    "options": [
+      "Nikola Tesla",
+      "Thomas Edison",
+      "Albert Einstein",
+      "Alexander Graham Bell"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Đơn vị đo cường độ dòng điện là gì?",
+    "options": [
+      "Volt",
+      "Ohm",
+      "Ampere",
+      "Watt"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Tỉnh nào có diện tích lớn nhất Việt Nam?",
+    "options": [
+      "Nghệ An",
+      "Gia Lai",
+      "Thanh Hóa",
+      "Đắk Lắk"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Hệ điều hành Android do công ty nào phát triển chính hiện nay?",
+    "options": [
+      "Microsoft",
+      "Apple",
+      "Google",
+      "Samsung"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Số nguyên tố nhỏ nhất là số nào?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Động vật có vú nào duy nhất biết bay?",
+    "options": [
+      "Chim cánh cụt",
+      "Dơi",
+      "Sóc bay",
+      "Cá voi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Tập truyện 'Kính vạn hoa' là của nhà văn nào?",
+    "options": [
+      "Nguyễn Nhật Ánh",
+      "Tô Hoài",
+      "Kim Lân",
+      "Xuân Quỳnh"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Chiến thắng Điện Biên Phủ lừng lẫy năm nào?",
+    "options": [
+      "1945",
+      "1954",
+      "1975",
+      "1930"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Hành tinh nào được gọi là Hành tinh Đỏ?",
+    "options": [
+      "Sao Kim",
+      "Sao Thủy",
+      "Sao Hỏa",
+      "Sao Mộc"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Quốc gia nào có nhiều đảo nhất thế giới?",
+    "options": [
+      "Indonesia",
+      "Philippines",
+      "Thụy Điển",
+      "Canada"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Trong cơ thể người, xương nào dài nhất?",
+    "options": [
+      "Xương cánh tay",
+      "Xương sườn",
+      "Xương đùi",
+      "Xương chậu"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Đơn vị đo tần số là gì?",
+    "options": [
+      "Hertz",
+      "Joule",
+      "Pascal",
+      "Newton"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Nước nào là nước duy nhất có quốc kỳ không phải hình chữ nhật hay hình vuông?",
+    "options": [
+      "Thụy Sĩ",
+      "Nepal",
+      "Vatican",
+      "Monaco"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Trực khuẩn nào gây ra bệnh lao ở người?",
+    "options": [
+      "Koch",
+      "E. coli",
+      "Salmonella",
+      "H Pylori"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Quảng trường Ba Đình nằm ở thành phố nào?",
+    "options": [
+      "Hải Phòng",
+      "Huế",
+      "Hà Nội",
+      "TP.HCM"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Giải vô địch bóng đá thế giới (World Cup) tổ chức mấy năm một lần?",
+    "options": [
+      "2 năm",
+      "3 năm",
+      "4 năm",
+      "5 năm"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bán đảo nào lớn nhất thế giới?",
+    "options": [
+      "Bán đảo Đông Dương",
+      "Bán đảo Ả Rập",
+      "Bán đảo Iberia",
+      "Bán đảo Triều Tiên"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bản hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hòa ban hành năm nào?",
+    "options": [
+      "1945",
+      "1946",
+      "1959",
+      "1980"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Thành phố cảng lớn nhất của nước Pháp là gì?",
+    "options": [
+      "Paris",
+      "Lyon",
+      "Marseille",
+      "Bordeaux"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Quốc gia nào tặng Tượng Nữ thần Tự do cho nước Mỹ?",
+    "options": [
+      "Anh",
+      "Đức",
+      "Pháp",
+      "Tây Ban Nha"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Nhà toán học nổi tiếng thế giới nào đã tìm ra định lý về tam giác vuông?",
+    "options": [
+      "Thales",
+      "Pythagoras",
+      "Euclid",
+      "Newton"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Kim loại nào dẫn điện tốt nhất?",
+    "options": [
+      "Vàng",
+      "Bạc",
+      "Đồng",
+      "Nhôm"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cơ quan nào giữ vai trò trung tâm điều khiển mọi hoạt động của cơ thể người?",
+    "options": [
+      "Tim",
+      "Phổi",
+      "Não",
+      "Gan"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Ký hiệu hóa học của kim loại Vàng là gì?",
+    "options": [
+      "Ag",
+      "Fe",
+      "Au",
+      "Cu"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Eo biển nào phân chia ranh giới giữa châu Á và châu Mỹ?",
+    "options": [
+      "Eo biển Bering",
+      "Eo biển Malacca",
+      "Eo biển Gibraltar",
+      "Eo biển Magellan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ai là người lãnh đạo cuộc khởi nghĩa Lam Sơn?",
+    "options": [
+      "Lê Lợi",
+      "Nguyễn Trãi",
+      "Quang Trung",
+      "Trần Hưng Đạo"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Quốc gia nào có đường bờ biển dài nhất thế giới?",
+    "options": [
+      "Nga",
+      "Canada",
+      "Úc",
+      "Mỹ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Tế bào lympho T trưởng thành ở cơ quan nào?",
+    "options": [
+      "Tủy xương",
+      "Tuyến ức",
+      "Hạch bạch huyết",
+      "Lách"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Ngôn ngữ lập trình đầu tiên trên thế giới được phát triển cho máy tính nào?",
+    "options": [
+      "ENIAC",
+      "Analytical Engine",
+      "IBM PC",
+      "Apple II"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Châu lục nào lạnh nhất và khô nhất Trái Đất?",
+    "options": [
+      "Châu Á",
+      "Châu Âu",
+      "Châu Phi",
+      "Châu Nam Cực"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Tháp nghiêng Pisa nổi tiếng nằm ở quốc gia nào?",
+    "options": [
+      "Pháp",
+      "Ý",
+      "Hy Lạp",
+      "Đức"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Thế vận hội Olympic mùa hè đầu tiên của kỷ nguyên hiện đại diễn ra ở đâu?",
+    "options": [
+      "Paris",
+      "Athens",
+      "London",
+      "Rome"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Quốc gia nào có diện tích nhỏ nhất thế giới?",
+    "options": [
+      "Monaco",
+      "San Marino",
+      "Vatican",
+      "Malta"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Hợp chất hóa học nào có công thức là NaCl?",
+    "options": [
+      "Đường",
+      "Muối ăn",
+      "Giấm",
+      "Bột ngọt"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Hành tinh nào có kích thước lớn nhất trong Hệ Mặt Trời?",
+    "options": [
+      "Sao Thổ",
+      "Sao Hải Vương",
+      "Sao Mộc",
+      "Sao Thiên Vương"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Lực nào giữ Trái Đất quay xung quanh Mặt Trời?",
+    "options": [
+      "Lực ma sát",
+      "Lực hấp dẫn",
+      "Lực ly tâm",
+      "Lực từ trường"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Truyện ngắn 'Vợ nhặt' là tác phẩm của nhà văn nào?",
+    "options": [
+      "Kim Lân",
+      "Tô Hoài",
+      "Nam Cao",
+      "Nguyễn Minh Châu"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Quốc gia nào nằm hoàn toàn bên trong một quốc gia khác?",
+    "options": [
+      "Vatican",
+      "Thụy Sĩ",
+      "Luxembourg",
+      "Lào"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Hệ thập phân sử dụng bao nhiêu chữ số cơ bản từ 0?",
+    "options": [
+      "2",
+      "8",
+      "10",
+      "16"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Đơn vị đo công và năng lượng là gì?",
+    "options": [
+      "Watt",
+      "Joule",
+      "Pascal",
+      "Newton"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Trực khuẩn hình que thường thuộc giới sinh vật nào?",
+    "options": [
+      "Động vật",
+      "Thực vật",
+      "Nấm",
+      "Vi khuẩn (Khởi sinh)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Tỉnh nào của Việt Nam có đường bờ biển dài nhất?",
+    "options": [
+      "Thanh Hóa",
+      "Khánh Hòa",
+      "Cà Mau",
+      "Quảng Ninh"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sân bay quốc tế lớn nhất miền Bắc Việt Nam tên là gì?",
+    "options": [
+      "Nội Bài",
+      "Tân Sơn Nhất",
+      "Đà Nẵng",
+      "Cát Bi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Đại tướng đầu tiên của Quân đội Nhân dân Việt Nam là ai?",
+    "options": [
+      "Võ Nguyên Giáp",
+      "Văn Tiến Dũng",
+      "Nguyễn Chí Thanh",
+      "Trần Đại Quang"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ai được coi là cha đẻ của ngành hình học phẳng?",
+    "options": [
+      "Euclid",
+      "Archimedes",
+      "Pythagoras",
+      "Aristotle"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Sông Nile đổ ra biển nào?",
+    "options": [
+      "Biển Đỏ",
+      "Địa Trung Hải",
+      "Biển Đen",
+      "Biển Caspi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sách kỷ lục thế giới nổi tiếng có tên gọi là gì?",
+    "options": [
+      "Guinness",
+      "Forbes",
+      "Nobel",
+      "Grammy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Loài chim nào có kích thước trứng lớn nhất thế giới hiện nay?",
+    "options": [
+      "Đại bàng",
+      "Đà điểu",
+      "Thiên nga",
+      "Hải âu"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Quốc gia nào có biểu tượng lá phong trên quốc kỳ?",
+    "options": [
+      "Úc",
+      "Canada",
+      "New Zealand",
+      "Mỹ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Ngày Quốc tế Phụ nữ là ngày nào?",
+    "options": [
+      "8 tháng 3",
+      "20 tháng 10",
+      "1 tháng 6",
+      "14 tháng 2"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Hành tinh nào quay quanh Mặt Trời mất ít thời gian nhất?",
+    "options": [
+      "Sao Thủy",
+      "Sao Kim",
+      "Trái Đất",
+      "Sao Hỏa"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Trong các màu sắc của cầu vồng, màu nào có bước sóng dài nhất?",
+    "options": [
+      "Tím",
+      "Lam",
+      "Vàng",
+      "Đỏ"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bộ phận nào của hoa chứa hạt phấn?",
+    "options": [
+      "Nhụy hoa",
+      "Nhị hoa",
+      "Đài hoa",
+      "Cánh hoa"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Châu lục nào không có cư dân bản địa sinh sống cố định?",
+    "options": [
+      "Châu Úc",
+      "Châu Nam Cực",
+      "Châu Phi",
+      "Châu Mỹ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Ai là người viết bản Tuyên ngôn Độc lập năm 1945 của Việt Nam?",
+    "options": [
+      "Hồ Chí Minh",
+      "Võ Nguyên Giáp",
+      "Trường Chinh",
+      "Phạm Văn Đồng"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Công thức hóa học của nước nguyên chất là gì?",
+    "options": [
+      "CO2",
+      "H2O",
+      "O2",
+      "NaCl"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Trong toán học, số Pi xấp xỉ giá trị nào?",
+    "options": [
+      "3.14",
+      "2.71",
+      "1.41",
+      "1.61"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Quốc gia nào đứng đầu thế giới về xuất khẩu hạt tiêu?",
+    "options": [
+      "Việt Nam",
+      "Ấn Độ",
+      "Brazil",
+      "Indonesia"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bộ phim hoạt hình dài tập đầu tiên của Disney là phim nào?",
+    "options": [
+      "Vua sư tử",
+      "Nàng bạch tuyết và bảy chú lùn",
+      "Mickey Mouse",
+      "Aladdin"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Ngày Giải phóng miền Nam, thống nhất đất nước là ngày nào?",
+    "options": [
+      "30 tháng 4",
+      "1 tháng 5",
+      "2 tháng 9",
+      "19 tháng 8"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Chất nào giúp lá cây có màu xanh và quang hợp?",
+    "options": [
+      "Diệp lục",
+      "Hemoglobin",
+      "Carotene",
+      "Melanin"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Lễ hội Carnival nổi tiếng nhất thế giới diễn ra ở quốc gia nào?",
+    "options": [
+      "Tây Ban Nha",
+      "Ý",
+      "Brazil",
+      "Pháp"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Ký hiệu hóa học của nguyên tố sắt là gì?",
+    "options": [
+      "Fe",
+      "Cu",
+      "Zn",
+      "Al"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Trực khuẩn lỵ gây ra bệnh nhiễm trùng ở cơ quan nào?",
+    "options": [
+      "Phổi",
+      "Đường ruột",
+      "Não",
+      "Máu"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Đảo lớn nhất thế giới là đảo nào?",
+    "options": [
+      "Greenland",
+      "Madagascar",
+      "Sumatra",
+      "Honshu"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Môn thể thao nào được gọi là môn thể thao vua?",
+    "options": [
+      "Bóng rổ",
+      "Bóng đá",
+      "Quần vợt",
+      "Bóng chuyền"
+    ],
+    "answer": 1
+  }
+]
